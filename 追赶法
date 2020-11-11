@@ -1,0 +1,8 @@
+# include <stdio.h>
+# include <math.h>
+define MAXSIZE 50
+void input (double a[],double b[],double c[],double d[],long n);
+void output (double x[],long n);
+void main (void)
+{
+   double a[], 
